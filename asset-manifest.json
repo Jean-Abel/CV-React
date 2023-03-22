@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/CV-React/index/static/css/main.83583ba3.css",
-    "main.js": "/CV-React/index/static/js/main.cf365646.js",
-    "static/media/bigGates.jpg": "/CV-React/index/static/media/bigGates.88d13cc1cdf384c69092.jpg",
-    "static/media/map.jpg": "/CV-React/index/static/media/map.3e5949c9b6f7cd03bd31.jpg",
-    "index.html": "/CV-React/index/index.html",
-    "static/media/shape.svg": "/CV-React/index/static/media/shape.1d026b20b3a18a74a971.svg",
-    "main.83583ba3.css.map": "/CV-React/index/static/css/main.83583ba3.css.map",
-    "main.cf365646.js.map": "/CV-React/index/static/js/main.cf365646.js.map"
+    "main.css": "/static/css/main.e3ecbb68.css",
+    "main.js": "/static/js/main.cf365646.js",
+    "static/media/bigGates.jpg": "/static/media/bigGates.88d13cc1cdf384c69092.jpg",
+    "static/media/map.jpg": "/static/media/map.3e5949c9b6f7cd03bd31.jpg",
+    "index.html": "/index.html",
+    "static/media/shape.svg": "/static/media/shape.1d026b20b3a18a74a971.svg",
+    "main.e3ecbb68.css.map": "/static/css/main.e3ecbb68.css.map",
+    "main.cf365646.js.map": "/static/js/main.cf365646.js.map"
   },
   "entrypoints": [
-    "static/css/main.83583ba3.css",
+    "static/css/main.e3ecbb68.css",
     "static/js/main.cf365646.js"
   ]
 }
