@@ -26,7 +26,7 @@ const Contact = () => {
                             <i className='far fa-envelope'></i>
                             <CopyToClipboard text="abel@yopmail.com">
                                 <span className='clickInput'
-                                    onClick={() => { alert(alert('E-mail copié')); }}>abel@yopmail.com</span>
+                                    onClick={() => { alert(alert('E-mail copié')); }}>andrianandrasanajeanabel@gmail.com</span>
                             </CopyToClipboard>
                         </li>
                     </ul>
