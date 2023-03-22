@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/CV-React/static/css/main.53f3ca7c.css",
+    "main.js": "/CV-React/static/js/main.cf365646.js",
+    "static/media/bigGates.jpg": "/CV-React/static/media/bigGates.88d13cc1cdf384c69092.jpg",
+    "static/media/map.jpg": "/CV-React/static/media/map.3e5949c9b6f7cd03bd31.jpg",
+    "index.html": "/CV-React/index.html",
+    "static/media/shape.svg": "/CV-React/static/media/shape.1d026b20b3a18a74a971.svg",
+    "main.53f3ca7c.css.map": "/CV-React/static/css/main.53f3ca7c.css.map",
+    "main.cf365646.js.map": "/CV-React/static/js/main.cf365646.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53f3ca7c.css",
+    "static/js/main.cf365646.js"
+  ]
+}
